@@ -1,0 +1,2 @@
+Article title
+Lorem ipsum
